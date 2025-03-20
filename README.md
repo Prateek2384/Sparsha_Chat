@@ -21,9 +21,3 @@ Sparsha is a real-time chatting platform with an advanced **real-time translatio
 - **Real-time Communication:** WebSockets (Socket.io) / Firebase Firestore
 - **Translation API:** Google Translate API / DeepL API
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/sparsha-chat.git
-   cd sparsha-chat
